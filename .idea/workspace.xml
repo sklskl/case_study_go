@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a4c4fd0-017d-4469-8070-0659195a8776" name="Changes" comment="" />
+    <list default="true" id="3a4c4fd0-017d-4469-8070-0659195a8776" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter10/extend01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/fengzhuangdemo01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/fzdemo01Test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/interface01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/namereset.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter10/type02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/unit1/demo0/demo02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/unit1/demo0/file01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter11/unit1/demo0/newreader.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/network01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/reflect01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/test01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter13/generic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/case_study_go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/case_study_go.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +33,10 @@
   </component>
   <component name="ProjectId" id="2Z9r3X2zke1RCqA7BuwdalTW9Fp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -25,6 +46,11 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
